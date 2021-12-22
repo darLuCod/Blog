@@ -34,21 +34,21 @@ body {
 }
 
 .footer .box1 .seccion1 p.texto{
-	color:rgb(1, 24, 3);
+	color:rgb(12, 1, 155);
 	font-size: 20px;
 	margin: auto;
 	text-align: center;
 }
 
 .footer .box1 .seccion2 h2{
-	color:#fff;
+	color:rgb(0, 112, 50);
 	font-size: 20px;
 	margin-bottom: 5px;
 	text-align:right;
 }
 
 .footer .box1 .seccion2 p{
-	color:#fff;
+	color:rgb(132, 146, 3);
 	font-size: 15px;
 	margin-bottom: 0px;
 	text-align: right;
